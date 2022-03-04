@@ -1,0 +1,24 @@
+*{
+    font-family: 'Titillium Web', sans-serif;
+}
+body{
+    background-color: rgba(249, 135, 74, 0.9);
+
+}
+
+.container{
+    text-align: center;
+    
+}
+.input{
+    font-size:larger;
+    margin-top: 25px;
+}
+.button{
+    margin-top: 200px;
+    font-size:large;
+    padding:25px;
+    background-color: blue;
+    color:white;
+    border-radius: 10px;
+}
